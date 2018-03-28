@@ -1,0 +1,22 @@
+{
+  "name": "AwesomeFramework",
+  "version": "0.1.0",
+  "summary": "A short description of AwesomeFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kapam6a/AwesomeFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kapam6a": "a.yakimenko@rambler-co.ru"
+  },
+  "source": {
+    "git": "https://github.com/kapam6a/AwesomeFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AwesomeFramework/Classes/**/*"
+}

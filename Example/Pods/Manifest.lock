@@ -1,0 +1,16 @@
+PODS:
+  - AwesomeFramework (0.1.0)
+
+DEPENDENCIES:
+  - AwesomeFramework (from `../`)
+
+EXTERNAL SOURCES:
+  AwesomeFramework:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AwesomeFramework: 1ac776fcfd830cbbcaebd730e953d47283a64d27
+
+PODFILE CHECKSUM: 99206148eb3958711d3bfaab96c229cc035a806a
+
+COCOAPODS: 1.3.1
